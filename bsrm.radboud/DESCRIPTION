@@ -1,0 +1,11 @@
+Package: bsrm.radboud
+Type: Package
+Title: Some useful functions for our stats class.
+Version: 0.1.0
+Author: Eric Feddeck
+Maintainer: Eric Feddeck
+Description: Includes functions like inspect() for inspecting the data and variable and variable you are about to use in your analysis (skew, missing values, outliers, etc.).
+    The function report() produces a written report for an analysis (currently only simple linear regression).
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
