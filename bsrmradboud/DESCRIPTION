@@ -1,0 +1,12 @@
+Package: bsrmradboud
+Type: Package
+Title: Some useful functions for our stats class
+Version: 0.1.0
+Author: Eric Feddeck
+Maintainer: Eric Feddeck <facebookeric@web.de>
+Description: Made for the behavioral science research master stats homework at Radboud University. 
+    Includes functions like inspect() for inspecting the data and variable and variable you are about to use in your analysis (skew, missing values, outliers, etc.). The function report() produces a written report for an analysis (currently only simple linear regression).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: Rmisc, DescTools, lattice, utils

@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("Rmisc", "CI")
+importFrom("DescTools", "Skew")
+importFrom("DescTools", "Kurt")
+importFrom("lattice", "densityplot")
+importFrom("utils", "str")
